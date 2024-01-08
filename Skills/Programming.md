@@ -1,104 +1,102 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 👂 heard
-  - identifier: 👂 heard
-  - variable: 👂 heard
-  - constant: 👂 heard
-  - scalar: 👂 heard
-  - literal: 👂 heard
-  - expression: 👂 heard
-  - heap: 👂 heard
+  - value: 🎓 known
+  - identifier: 🎓 known
+  - variable: 🎓 known
+  - constant: 🎓 known
+  - scalar: 🎓 known
+  - heap: 🎓 known
   - function: 👂 heard
   - procedure: 👂 heard
-  - method: 👂 heard
-  - class: 👂 heard
-  - prototype: 👂 heard
-  - event: 👂 heard
-  - type: 👂 heard
+  - method: 🎓 known
+  - class: 🎓 known
+  - prototype: 🎓 known
+  - event: : 🎓 known
+  - type: : 🎓 known
   - primitive types: 👂 heard
   - reference types: 👂 heard
-  - flag: 👂 heard
+  - flag: 🎓 known
   - lexical scope: 👂 heard
   - code block: 👂 heard
-  - conditions: 👂 heard
+  - conditions: 🎓 known
   - loops: 👂 heard
   - assignment: 👂 heard
   - regular expression: 👂 heard
-  - interface: 👂 heard
+  - interface: 🎓 known
   - contract: 👂 heard
-  - module: 👂 heard
-  - call stack: 👂 heard
+  - module: 🎓 known
+  - call stack: 🎓 known
 - Functions
-  - signature: 👂 heard
+  - signature: 🎓 known
   - argument: 👂 heard
-  - parameter: 👂 heard
+  - parameter: 🎓 known
   - pure function: 👂 heard
   - lambda expression: 👂 heard
   - side effects: 👂 heard
   - closure: 👂 heard
-  - partial application: 👂 heard
-  - curry: 👂 heard
+  - partial application: 🎓 known
+  - curry: 🎓 known
   - higher order: 👂 heard
   - recursion: 👂 heard
-  - callback: 👂 heard
-  - listener: 👂 heard
-  - compose: 👂 heard
+  - callback: 🎓 known
+  - listener: 🎓 known
+  - compose: 🎓 known
   - pipe: 👂 heard
-  - memoize: 👂 heard
-  - wrapper: 👂 heard
-  - functor: 👂 heard
+  - memoize: 🎓 known
+  - wrapper: 🎓 known
+  - functor: 🎓 known
   - monad: 👂 heard
-  - monoid: 👂 heard
-  - generator: 👂 heard
-  - coroutine: 👂 heard
+  - monoid: 🎓 known
+  - generator: 🎓 known
+  - coroutine: 🎓 known
 - Data structures
-  - array: 👂 heard
+  - array: 🎓 known
   - structure: 👂 heard
   - record: 👂 heard
   - enum: 👂 heard
-  - instance: 👂 heard
-  - object: 👂 heard
+  - instance: 🎓 known
+  - object: 🎓 known
   - class: 👂 heard
   - collection: 👂 heard
   - set: 👂 heard
-  - hash table: 👂 heard
-  - linked list: 👂 heard
-  - doubly list: 👂 heard
-  - unrolled list: 👂 heard
-  - circular list: 👂 heard
-  - queue: 👂 heard
-  - stack: 👂 heard
+  - hash table: 🎓 known
+  - linked list: 🎓 known
+  - doubly list: 🎓 known
+  - unrolled list: 🎓 known
+  - circular list: 🎓 known
+  - queue: 🎓 known
+  - stack: 🎓 known
   - deque: 👂 heard
-  - tree: 👂 heard
-  - graph: 👂 heard
+  - tree: 🎓 known
+  - graph: 🎓 known
   - iterator: 👂 heard
   - mutable state: 👂 heard
   - immutable state: 👂 heard
-  - serialization: 👂 heard
-  - string parsing: 👂 heard
+  - serialization: 🎓 known
+  - string parsing: 🎓 known
 - Process & style
   - compiler: 👂 heard
-  - transpiler: 👂 heard
-  - linter: 👂 heard
-  - polyfill: 👂 heard
+  - transpiler: 🎓 known
+  - linter: 🎓 known
+  - polyfill: 🎓 known
   - debugger: 👂 heard
   - garbage collection: 👂 heard
-  - refactoring: 👂 heard
-  - code review: 👂 heard
+  - refactoring: 🎓 known
+  - code review: 🎓 known
   - antipatterns: 👂 heard
-  - paradigm: 👂 heard
+  - paradigm: 🎓 known
   - algorithm: 👂 heard
   - magic numbers: 👂 heard
-  - hardcode: 👂 heard
-  - complexity: 👂 heard
+  - hardcode: 🎓 known
+  - complexity: 🎓 known
   - decomposition: 👂 heard
-  - spaghetti: 👂 heard
+  - spaghetti: 🎓 known
   - silver bullet: 👂 heard
   - not invented here: 👂 heard
-  - dead code: 👂 heard
-  - unreachable code: 👂 heard
-  - duplicate code: 👂 heard
+  - dead code: 🎓 known
+  - unreachable code: 🎓 known
+  - duplicate code: 🎓 known
   - exception: 👂 heard
   - return early: 👂 heard
   - unittest: 👂 heard
